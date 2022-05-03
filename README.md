@@ -18,7 +18,7 @@ Se debe crear una aplicación de ionic utilizando la última versión estable qu
 Una vez finalizado el registro debe regresar a la página de home y mostrar el nuevo producto añadido al listado de productos.
 
 5. Cada ítem del listado de producto debe dar la posibilidad de actualizar el producto y a su vez, poderlo eliminar de la base de datos y del listado de productos.
-6. Cada vez que se cree o se elimine un producto se debe mostrar en la parte superior contadores con su respectivo valor.
+6. Cada vez que se cree o se elimine un producto se debe mostrar en la parte superior contadores con su respectivo valor. (Se recomienda utilizar algun manejador de estados como redux, ngxs akita, etc.)
 7. La aplicación debe mostrar un menú lateral izquierdo en el cual muestre el nombre del usuario que se registró/logueo y un botón que le permita cerrar sesión y regresar a la página de login.
 
 
